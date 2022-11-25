@@ -23,3 +23,5 @@ Next open new terminal and execute the below command:
 javac PingClient2.java
 java PingClient2 127.0.0.1 1025
 ```
+Also providing the Github link to access these codes:
+https://github.com/Gurudeep310/Computer-Networks-Assignments.git
